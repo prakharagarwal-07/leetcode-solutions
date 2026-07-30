@@ -4,7 +4,7 @@ public:
     vector<int> dr = { -1 , 0 , 1 , 0 };
     vector<int> dc = { 0 , 1 , 0 , -1 };
 
-    bool check( vector<vector<char>> &board , string word , int row , int col , int idx , vector<vector<bool>> &visit ){
+    bool check( vector<vector<char>> &board , string &word , int row , int col , int idx , vector<vector<bool>> &visit ){
 
 
         if( row < 0 || col < 0 || row >= board.size() || col >= board[0].size() || visit[row][col] == true ){

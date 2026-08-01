@@ -49,50 +49,9 @@ public:
 
                 }
 
-                
-
-            for( int idx = 0 ; idx < 3 ; idx++ ){
-
-                
-
-                if( i > 0 ){
-
-                    curr += op[idx];
-
-                }
-
-
-                if( idx == 0){
-
-                combo( num , curr+segment , ans , target , sum+value , value , j+1 );
-                
-
-                }
-
-                if( idx == 1 ){
-
-                combo( num , curr+segment , ans , target , sum-value , -value , j+1 );
-                
-
-
-                }
-
-                if( idx == 2 ){
-
-                combo( num , curr+segment , ans , target , sum - lastOp + lastOp*value , lastOp*value ,  j+1 );
-                
-
-
-                }
-
-                if( i > 0 ){
-
-                    curr.pop_back();
-
-                }
-
-
-            }
+                combo( num , curr + '+' + segment , ans , target , sum+value , value , j+1 );
+                combo( num , curr + '-' + segment , ans , target , sum-value , -value , j+1 );
+                combo( num , curr + '*' + segment , ans , target , sum - lastOp + lastOp*value , lastOp*value ,  j+1 );
         }
     }
     vector<string> addOperators(string num, int target) {
@@ -101,7 +60,7 @@ public:
         vector<string> ans; 
         long long int sum = 0;
         int i = 0;
-        long long lastOp;
+        long long lastOp = 0;
 
     combo( num ,  curr , ans , target , sum , lastOp , i );
 

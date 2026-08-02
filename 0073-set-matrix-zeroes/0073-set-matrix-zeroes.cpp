@@ -7,15 +7,15 @@ public:
        
         
 
-        vector<int> ansRow;
-        vector<int> ansCol;
+        vector<bool> ansRow(matrix.size() , false);
+        vector<bool> ansCol(matrix[0].size() , false);
 
         while( row < matrix.size() ){
 
             if( matrix[row][col] == 0 ){
 
-                ansRow.push_back(row);
-                ansCol.push_back(col);
+                ansRow[row] = true;
+                ansCol[col] = true;
 
                 
 
@@ -34,21 +34,17 @@ public:
 
         }
 
-        for( int a = 0 ; a < ansRow.size() ; a++ ){
+        for( int i = 0 ; i < matrix.size() ; i++ ){
 
-            for( int i = 0 ; i < matrix[0].size() ; i++ ){
+            for( int j = 0 ; j < matrix[0].size() ; j++ ){
 
-                matrix[ansRow[a]][i] = 0;
+                if( ansRow[i] || ansCol[j] ){
+
+                    matrix[i][j] = 0;
+                }
             }
         }
 
-        for( int b = 0 ; b < ansRow.size() ; b++ ){
-
-            for( int i = 0 ; i < matrix.size() ; i++ ){
-
-                matrix[i][ansCol[b]] = 0;
-            }
-        }
         
     }
 };

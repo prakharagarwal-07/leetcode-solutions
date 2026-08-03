@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0079-word-search) |
 | [0493-reverse-pairs](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0493-reverse-pairs) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0282-expression-add-operators](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0282-expression-add-operators) |
 | [1922-count-good-numbers](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/1922-count-good-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0079-word-search) |
 | [2596-check-knight-tour-configuration](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |

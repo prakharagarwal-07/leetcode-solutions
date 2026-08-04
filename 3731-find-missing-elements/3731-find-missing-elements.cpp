@@ -2,38 +2,31 @@ class Solution {
 public:
     vector<int> findMissingElements(vector<int>& nums) {
 
-
-        sort( nums.begin() , nums.end() );
-
-        int i = 0;
-        int number = nums[0];
+        vector<bool> check(101 , false);
+        int maxi = INT_MIN;
+        int mini = INT_MAX;
         vector<int> ans;
 
-        while( i < nums.size() ){
+        for( int val: nums ){
 
+            check[val] = true;
 
-            if( nums[i] == number ){
+            maxi = max( val , maxi );
+            mini = min( val , mini );
 
-                i++;
-                number++;
+        }
 
+        for( int i = mini + 1 ; i < maxi ; i++ ){
+
+            if(check[i] == false){
+
+                ans.push_back(i);
             }
-
-            else{
-
-                ans.push_back(number);
-
-                number++;
-            }
-
-
-
-
         }
 
         return ans;
 
-        
+
         
     }
 };

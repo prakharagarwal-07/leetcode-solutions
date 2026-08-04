@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [1922-count-good-numbers](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/1922-count-good-numbers) |
 ## Heap (Priority Queue)
 |  |
@@ -143,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->

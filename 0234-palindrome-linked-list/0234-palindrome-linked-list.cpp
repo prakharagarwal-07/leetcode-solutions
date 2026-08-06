@@ -22,10 +22,6 @@ public:
 
         }
 
-        
-
-
-
         ListNode* half = slow;
 
         slow = slow->next;
@@ -46,7 +42,7 @@ public:
 
         }
 
-        while( head != slow && prev != NULL ){
+        while( prev != NULL ){
 
             if( head->val == prev->val ){
 

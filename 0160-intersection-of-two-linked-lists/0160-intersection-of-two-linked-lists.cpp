@@ -13,34 +13,44 @@ public:
         ListNode* tempA = headA;
         ListNode* tempB = headB;
 
+        while( tempA != tempB ){
 
-        unordered_map<ListNode* , int> freq;
+            
 
-        while( tempA != NULL ){
+            if( tempB == NULL ){
 
-
-            freq[tempA]++;
-
-            tempA = tempA->next;
-
-        }
-
-        while( tempB != NULL ){
-
-
-            if( freq[tempB] == 1 ){
-
-                return tempB;
+                tempB = headA;
             }
 
-            tempB = tempB->next;
+            else{
+
+                tempB = tempB->next;
+            }
+
+
+            if( tempA == NULL ){
+
+                tempA = headB;
+
+            }
+
+            else{
+
             
+            tempA = tempA->next;
+
+            }
+            
+
         }
 
         
 
-        return NULL;
-        
+        return tempA;
+
+
+
+    
         
     }
 };

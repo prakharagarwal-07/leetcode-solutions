@@ -20,7 +20,6 @@ public:
         ListNode* slow = head;
         ListNode* fast = head;
         ListNode* prev = NULL;
-        ListNode* link;
 
 
         while( fast != NULL && fast->next != NULL ){
@@ -33,7 +32,6 @@ public:
             
         }
 
-        link = slow->next;
 
         prev->next = slow->next;
 

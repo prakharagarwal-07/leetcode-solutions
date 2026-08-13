@@ -5,8 +5,8 @@ public:
         int left = 0;
         int right = 0;
         unordered_map<int,int> freq;
-        int maxLength = INT_MIN;
-        int currLength = 0;
+        int maxLength = 0;
+        
 
 
         while( right != nums.size() ){
@@ -23,9 +23,9 @@ public:
                 left++;
             }
 
-            currLength = right-left+1;
+            
 
-            maxLength = max(maxLength , currLength);
+            maxLength = max(maxLength , right-left+1);
 
             right++;
 

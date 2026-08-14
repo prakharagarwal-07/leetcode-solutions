@@ -15,8 +15,7 @@ public:
     Node* list( Node* head ){
 
     Node* temp = head;
-    Node* dummy = new Node(-1);
-    Node* left = dummy;
+    Node* left = head;
     Node* nextHead;
 
         while( temp != NULL ){

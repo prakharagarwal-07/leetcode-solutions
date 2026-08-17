@@ -5,17 +5,15 @@ public:
         int size = nums.size();
         vector<int> ans( size , 0 );
 
-        for( int i = 0 ; i < size ; i++ ){
-
-            nums.push_back(nums[i]);
-
-        }
+       
 
         stack<int> s;
 
         for( int j = 2*size-1 ; j >= 0 ; j-- ){
 
-            while( !s.empty() && s.top() <= nums[j] ){
+            int curr = nums[j % size];          //important step
+
+            while( !s.empty() && s.top() <= curr ){
 
                 s.pop();
 
@@ -36,7 +34,7 @@ public:
 
             }
 
-            s.push(nums[j]);
+            s.push(curr);
 
 
         }

@@ -19,22 +19,7 @@ public:
 
         if( k == 1 ){
 
-            if( size == 1 ){return nums[0];}
-            else if( size < 1 ){ return -1; }
-            else if( freq[nums[0]] == size ){
-                return -1;
-            }
-
-            
-          
-
-
-        }
-
-
-        if( k == 1 ){
-
-        for( auto val: freq ){
+            for( auto val: freq ){
 
             if( val.second == 1 ){
 
@@ -42,17 +27,26 @@ public:
             }
         }
 
-        if( high == INT_MIN ){return -1;}
+            if( high == INT_MIN ){
+                return -1;
+            }
 
-        else{
+            else{
 
-        return high;
+                return high;
 
+            }
         }
 
-        }
+            
+          
 
-         if(  k == size ){
+
+        
+
+
+      
+        if(  k == size ){
 
             for( int k = 0 ; k < nums.size() ; k++ ){
 
@@ -65,27 +59,34 @@ public:
 
         }
 
-        if( nums[0] > nums[size-1] ){
+ 
 
-            if( freq[nums[0]] == 1 ){ return nums[0]; }
-            else if( freq[nums[size-1]] == 1 ){ return nums[size-1]; }
+            if( freq[nums[0]] == 1 ){ 
 
-        }
+                high = max( high , nums[0] );
+                
+
+            }
+
+            if( freq[nums[size-1]] == 1 ){ 
+
+                high = max( high , nums[size-1] );
+
+            }
 
         
 
-        else if( nums[0] < nums[size-1] ){
-
-            if( freq[nums[size-1]] == 1 ){ return nums[size-1]; }
-            else if( freq[nums[0]] == 1 ){ return nums[0]; }
+        
 
 
+        if( high == INT_MIN ){
+
+            return -1;
         }
 
-       
-
-
-        return -1;
+        else{
+        return high;
+        }
 
 
         

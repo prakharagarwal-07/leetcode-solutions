@@ -2,20 +2,21 @@ class Solution {
 public:
     vector<int> resultArray(vector<int>& nums) {
 
-        if( nums.size() < 1 ){
+        if( nums.size() < 2 ){
 
             return nums;
         }
 
-        int i = 0;
+       
 
         vector<int> arr1;
         vector<int> arr2;
 
-        arr1.push_back(nums[i]);
-        i++;
-        arr2.push_back(nums[i]);
-        i++;
+        arr1.push_back(nums[0]);
+        
+        arr2.push_back(nums[1]);
+        
+        int i = 2;
 
         while( i < nums.size() ){
 

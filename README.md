@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0526-beautiful-arrangement) |
 | [0560-subarray-sum-equals-k](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0912-sort-an-array](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [2596-check-knight-tour-configuration](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1386-cinema-seat-allocation](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Depth-First Search
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0526-beautiful-arrangement) |
+| [1386-cinema-seat-allocation](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Bitmask
 |  |

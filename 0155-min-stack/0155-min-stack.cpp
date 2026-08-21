@@ -1,9 +1,10 @@
 class MinStack {
 public:
 
-    int smallest = INT_MAX;
-    vector<int> s;
-    vector<int> minVals;
+    long long int smallest = INT_MAX;
+    stack<long long int> s;
+   
+    int val2 = 0;
 
     MinStack() {
 
@@ -13,52 +14,53 @@ public:
     
     void push(int value) {
 
-        if( value <= smallest ){
+        if(s.empty()){
 
-            if( smallest != INT_MAX ){
-
-            minVals.push_back(smallest);
-
-            }
-
+            s.push(value);
             smallest = value;
+        }
+
+        else if( value <= smallest ){
+
+            s.push(  2LL*value - smallest );
+            smallest = value;
+        }
+
+        else{
+
+            s.push(value);
         }
 
        
 
-        s.push_back( value );
+
         
     }
     
     void pop() {
 
+        if( s.top() <= smallest ){
 
-        if( s[s.size()-1] == smallest ){
-
-        if( minVals.size() != 0 ){
-
-            smallest = minVals[minVals.size()-1];
-
-            minVals.pop_back();
-
-        }
-        else{
-
-            smallest = INT_MAX;
-        }
+            smallest = 2LL*smallest - s.top();
 
         }
 
+        s.pop();
 
-        s.pop_back();
 
-        
-    }
+      
+        }
+
+    
     
     int top() {
 
-        return s[s.size()-1];
-        
+       if( s.top() <= smallest ){
+
+        return smallest;
+       }
+
+       return s.top();        
     }
     
     int getMin() {

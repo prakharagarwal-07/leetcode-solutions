@@ -2,44 +2,51 @@ class Solution {
 public:
     vector<vector<int>> findDisappearedNumbers(vector<int>& nums, int lower, int upper) {
 
-        set<int> st( nums.begin() , nums.end() );
+        sort( nums.begin() , nums.end() );
+
+    
 
         vector<vector<int>> ans;
 
-        int start = -1;
+        int start = lower;
 
-        for( int i = lower ; i <= upper ; i++ ){
+       
 
-            if( st.find(i) == st.end() ){
+        for( int i = 0 ; i < nums.size() ; i++ ){
 
-                if( start == -1 ){
 
-                    start = i;
-                }
-                
+            if( nums[i] < lower || nums[i] > upper ){
 
+                continue;
 
             }
 
-            else{
+            if( start < nums[i] ){
 
-                if( start != -1 ){
-
-                ans.push_back( {start , i-1} );
-                start = -1;
-
-                }
+            ans.push_back( { start , nums[i]-1 } );
 
             }
+
+            start = nums[i]+1;
+
+
+
+
+
+
+
+
+
+
+
         }
 
-        if( start != -1 ){
+        if( start <= upper ){
 
-            ans.push_back( {start , upper} );
+        ans.push_back( { start , upper } );
 
         }
 
         return ans;
-        
     }
 };

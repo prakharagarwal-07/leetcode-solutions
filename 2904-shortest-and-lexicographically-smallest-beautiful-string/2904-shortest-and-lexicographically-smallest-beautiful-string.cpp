@@ -31,29 +31,30 @@ public:
 
                 if( count == k ){
 
+                    
+
                 while( s[left] == '0' ){
 
                     left++;
                 }
 
-
-
+                string curr = s.substr( left , right - left + 1 );
 
                 if( right-left+1 == k ){
 
-                    return s.substr( left , right-left+1 );
+                    return curr;
                 }
 
                 if( ans.size() == 0 || right - left + 1 < ans.size() ){
 
-                    ans = s.substr( left , right - left + 1 );
+                    ans = curr;
                 }
 
                 else if ( right - left + 1 == ans.size() ){
 
-                    if( s.substr( left , right-left+1 ) < ans ){
+                    if( curr < ans ){
 
-                        ans = s.substr( left , right-left+1 );
+                        ans = curr;
                     }
                     
                 }

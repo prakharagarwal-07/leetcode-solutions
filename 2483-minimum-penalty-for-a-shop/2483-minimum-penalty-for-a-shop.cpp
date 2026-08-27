@@ -44,23 +44,17 @@ public:
                 minHr = j+1;
             }
 
-            else if( currPen == minPen ){
-
-                minHr = min( minHr , j+1 );
-            }
+         
 
         }
 
-            if( numberY[size-1] < minPen ){
+            if( numberY[size-1] <= minPen ){
 
               
                 minHr = 0;
             }
 
-            else if( numberY[size-1] == minPen ){
-
-                minHr = 0;
-            }
+          
 
         return minHr;
         

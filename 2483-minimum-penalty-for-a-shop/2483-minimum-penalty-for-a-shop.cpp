@@ -6,37 +6,41 @@ public:
 
         int minHr = 0;
 
-        int minPen = INT_MAX;
+        
 
-        vector<int> numberY( size , 0 );
+        int numberY = 0;
 
-        if( customers[0] == 'Y' ){
+       
 
-            numberY[0] = 1;
-        }
+       
 
-        for( int i = 1 ; i < size ; i++ ){
+        for( int i = 0 ; i < size ; i++ ){
 
             if( customers[i] == 'Y' ){
 
-                numberY[i] = numberY[i-1]+1;
+                numberY++;
 
             }
 
-            else{
-
-                numberY[i] = numberY[i-1];
-            }
         }
 
-        int currPen = numberY[size-1];
+        int currPen = numberY;
+        int minPen = numberY;
         
 
 
 
         for( int j = 0 ; j < size ; j++ ){
 
-            currPen = ((j+1) - numberY[j]) + ( numberY[size-1] - numberY[j] );
+            if( customers[j] == 'Y' ){
+
+                currPen--;
+            }
+
+            if( customers[j] == 'N' ){
+
+                currPen++;
+            }
 
             if( currPen < minPen ){
 
@@ -48,12 +52,7 @@ public:
 
         }
 
-            if( numberY[size-1] <= minPen ){
-
-              
-                minHr = 0;
-            }
-
+            
           
 
         return minHr;

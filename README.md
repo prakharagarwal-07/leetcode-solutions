@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0526-beautiful-arrangement](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0526-beautiful-arrangement) |
 | [0560-subarray-sum-equals-k](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0735-asteroid-collision](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [2596-check-knight-tour-configuration](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Backtracking
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0901-online-stock-span) |
 ## Sliding Window

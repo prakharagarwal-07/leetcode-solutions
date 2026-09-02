@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0912-sort-an-array](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [1019-next-greater-node-in-linked-list](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1386-cinema-seat-allocation](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2596-check-knight-tour-configuration](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [1019-next-greater-node-in-linked-list](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [1019-next-greater-node-in-linked-list](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 ## Data Stream
 |  |
 | ------- |

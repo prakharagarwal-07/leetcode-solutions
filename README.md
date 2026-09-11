@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
@@ -37,10 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0493-reverse-pairs](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0493-reverse-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0912-sort-an-array) |

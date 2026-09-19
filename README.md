@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0387-first-unique-character-in-a-string](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1386-cinema-seat-allocation](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0093-restore-ip-addresses) |
 | [0282-expression-add-operators](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0282-expression-add-operators) |
+| [0387-first-unique-character-in-a-string](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Recursion
 |  |
@@ -336,4 +339,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
+| [0387-first-unique-character-in-a-string](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->

@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0397-integer-replacement) |
 | [0881-boats-to-save-people](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [1386-cinema-seat-allocation](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -201,11 +202,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0397-integer-replacement](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0397-integer-replacement) |
 | [0526-beautiful-arrangement](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0526-beautiful-arrangement) |
 | [0907-sum-of-subarray-minimums](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0397-integer-replacement) |
 | [0526-beautiful-arrangement](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0526-beautiful-arrangement) |
 | [1386-cinema-seat-allocation](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -342,4 +345,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->

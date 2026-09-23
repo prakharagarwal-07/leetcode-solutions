@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0493-reverse-pairs](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0912-sort-an-array](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 ## Timsort
 |  |
 | ------- |
@@ -344,9 +348,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
+| [0239-sliding-window-maximum](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Memoization
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0397-integer-replacement) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->

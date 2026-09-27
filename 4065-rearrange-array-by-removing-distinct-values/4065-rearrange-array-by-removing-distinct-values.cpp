@@ -17,7 +17,14 @@ public:
 
             for( int i = 0 ; i < nums.size() ; i++ ){
 
-                if( freq[nums[i]] < 1 && used[i] == false ){
+                if( used[i] == true ){
+
+                    continue;
+                }
+
+
+
+                if( freq[nums[i]] < 1 ){
 
                     s.insert(nums[i]);
                     used[i] = true;

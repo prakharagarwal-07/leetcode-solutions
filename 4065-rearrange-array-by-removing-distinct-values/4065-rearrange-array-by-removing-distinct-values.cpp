@@ -2,46 +2,27 @@ class Solution {
 public:
     vector<int> rearrangeArray(vector<int>& nums) {
 
-       
-        
+        map<int , int> freq;
+
+        for( int i = 0 ; i < nums.size() ; i++ ){
+
+            freq[nums[i]]++;
+
+        }
+
         vector<int> ans;
 
-        vector<bool> used( nums.size() , false );
+        while( ans.size() < nums.size() ){
 
-        while( ans.size() != nums.size() ){
+            for( auto &val : freq ){
 
-            set<int> s;
-            unordered_map<int , int> freq;
+                if( val.second > 0 ){
 
-            
-
-            for( int i = 0 ; i < nums.size() ; i++ ){
-
-                if( used[i] == true ){
-
-                    continue;
+                    ans.push_back(val.first);
                 }
 
-
-
-                if( freq[nums[i]] < 1 ){
-
-                    s.insert(nums[i]);
-                    used[i] = true;
-                    freq[nums[i]]++;
-
-                }
-
-                
-
+                val.second--;
             }
-
-            for( auto val : s ){
-
-                ans.push_back(val);
-
-            }
-
         }
 
         return ans;

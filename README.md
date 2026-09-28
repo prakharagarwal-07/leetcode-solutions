@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0134-gas-station](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0134-gas-station) |
 | [0239-sliding-window-maximum](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0493-reverse-pairs](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0134-gas-station) |
 | [0397-integer-replacement](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0397-integer-replacement) |
 | [0881-boats-to-save-people](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0948-bag-of-tokens) |

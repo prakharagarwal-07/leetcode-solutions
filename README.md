@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1386-cinema-seat-allocation](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2596-check-knight-tour-configuration](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0493-reverse-pairs](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0493-reverse-pairs) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Depth-First Search
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0948-bag-of-tokens](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0948-bag-of-tokens) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -205,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0912-sort-an-array](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bucket Sort
 |  |
 | ------- |

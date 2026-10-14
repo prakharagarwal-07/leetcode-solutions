@@ -13,7 +13,7 @@ public:
         while( num > 0 ){
 
             int digit = min( 9 , sum );
-            ans += to_string(digit);
+            ans += char('0' + digit);
             sum -= digit;
             num--;
         }

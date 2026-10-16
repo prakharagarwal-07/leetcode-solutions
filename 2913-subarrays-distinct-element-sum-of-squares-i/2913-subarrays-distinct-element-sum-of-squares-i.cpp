@@ -4,37 +4,24 @@ public:
 
         int sum = 0;
 
-        vector<vector<int>> mat;
-
         for( int i = 0 ; i < nums.size() ; i++ ){
 
-            vector<int> curr;
+            unordered_set<int> check;
+
+            
 
             for( int j = i ; j < nums.size() ; j++ ){
 
-                curr.push_back(nums[j]);
+                check.insert(nums[j]);
 
-                mat.push_back(curr);
+                sum += check.size()*check.size();
 
+               
             }
         }
 
 
        
-
-        for( int k = 0 ; k < mat.size() ; k++){
-
-             set<int> check;
-
-            for( int m = 0 ; m < mat[k].size() ; m++ ){
-
-                check.insert(mat[k][m]);
-            }
-
-            sum += check.size()*check.size();
-
-
-        }
 
 
 

@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0387-first-unique-character-in-a-string](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0508-most-frequent-subtree-sum](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0923-3sum-with-multiplicity](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0923-3sum-with-multiplicity) |
 | [1386-cinema-seat-allocation](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0508-most-frequent-subtree-sum](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [0572-subtree-of-another-tree](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0508-most-frequent-subtree-sum](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [0572-subtree-of-another-tree](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
@@ -446,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0508-most-frequent-subtree-sum](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [0572-subtree-of-another-tree](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
 |  |
@@ -455,4 +459,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0508-most-frequent-subtree-sum](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0508-most-frequent-subtree-sum) |
 <!---LeetCode Topics End-->

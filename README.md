@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0907-sum-of-subarray-minimums](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0912-sort-an-array](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [0923-3sum-with-multiplicity](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0923-3sum-with-multiplicity) |
 | [0948-bag-of-tokens](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [1019-next-greater-node-in-linked-list](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1386-cinema-seat-allocation](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0923-3sum-with-multiplicity](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0923-3sum-with-multiplicity) |
 | [1386-cinema-seat-allocation](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0148-sort-list) |
 | [0881-boats-to-save-people](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [0923-3sum-with-multiplicity](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0923-3sum-with-multiplicity) |
 | [0948-bag-of-tokens](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0923-3sum-with-multiplicity](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0923-3sum-with-multiplicity) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Recursion
 |  |
@@ -311,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0881-boats-to-save-people) |
+| [0923-3sum-with-multiplicity](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0923-3sum-with-multiplicity) |
 | [0948-bag-of-tokens](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm

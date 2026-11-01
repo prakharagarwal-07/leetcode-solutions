@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0239-sliding-window-maximum](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0493-reverse-pairs](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0282-expression-add-operators](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0282-expression-add-operators) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1922-count-good-numbers](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/1922-count-good-numbers) |

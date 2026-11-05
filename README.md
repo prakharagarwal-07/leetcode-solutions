@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [1019-next-greater-node-in-linked-list](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1254-number-of-closed-islands](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0493-reverse-pairs](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0493-reverse-pairs) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Divide and Conquer
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0923-3sum-with-multiplicity](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0923-3sum-with-multiplicity) |
 | [0948-bag-of-tokens](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0948-bag-of-tokens) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0923-3sum-with-multiplicity](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0923-3sum-with-multiplicity) |
 | [0948-bag-of-tokens](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0948-bag-of-tokens) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |

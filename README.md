@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0079-word-search](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0093-restore-ip-addresses) |
+| [0257-binary-tree-paths](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0282-expression-add-operators) |
 | [0387-first-unique-character-in-a-string](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0508-most-frequent-subtree-sum](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0093-restore-ip-addresses) |
+| [0257-binary-tree-paths](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0282-expression-add-operators) |
 | [0526-beautiful-arrangement](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0526-beautiful-arrangement) |
 ## Sorting
@@ -477,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0508-most-frequent-subtree-sum](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
@@ -494,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0508-most-frequent-subtree-sum](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |

@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [1019-next-greater-node-in-linked-list](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1254-number-of-closed-islands](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1352-product-of-the-last-k-numbers](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0282-expression-add-operators) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+| [1352-product-of-the-last-k-numbers](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1922-count-good-numbers](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/1922-count-good-numbers) |
 | [2235-add-two-integers](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/2235-add-two-integers) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1352-product-of-the-last-k-numbers](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3364-minimum-positive-sum-subarray](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0901-online-stock-span](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -448,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/prakharagarwal-07/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
